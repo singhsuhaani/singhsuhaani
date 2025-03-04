@@ -4,4 +4,3 @@ Hello :) I am Suhaani Singh (she/her)
 
 CONTACT: 
 - Email: suhaani.singh4@gmail.com 
-- Twitter: @suhwhisps 
