@@ -1,5 +1,5 @@
 Hello :) 
-- she/her 
+- She/her 
 - I’m an aspiring developer 
 - Fun fact: I play multiple musical instruments! 
 
