@@ -1,5 +1,5 @@
 Hello :) 
-- pronouns: she/her 
+- she/her 
 - I’m an aspiring developer 
 - Fun fact: I play multiple musical instruments! 
 
