@@ -1,7 +1,7 @@
 Hello :) 
-- She/her 
+- She/her
+- University of Waterloo Electrical Engineering
 - I like everything coding, math, electronics, stem related
-- Grade 12 student 
 
 CONTACT: 
 - Email: suhaani.singh4@gmail.com
